@@ -5,15 +5,17 @@ Experienced software engineer with a demonstrated history of working on manufact
 Responsible for is designing and development of :
 - Low level to high level systems data transmission and communication ( SPI, I2C, Serial Port, TCP/IP )
 - Web Applications ( Angular 10, Asp .NET MVC )
-- Distributed and load balanced services ( Java, C#, Openshift ) • Data modeling
-- Analysis and match business requirements to technical design 
+- Distributed and load balanced services ( Java, C#, Openshift )
+- Data modeling
+- Analysis and match business requirements to technical design
 
 ### Experiences
 **AKBANK**
 - Application Architect, 2019 - Present
 
 **Ford Motor Company, Turkey**
-- Intrapreneur, Co-Founder of Easy Route Mobile App, 2016-2019 • Software Architect, 2017 - 2019
+- Intrapreneur, Co-Founder of Easy Route Mobile App, 2016-2019 
+- Software Architect, 2017 - 2019
 - Software Development Engineer, 2013-2017
 - Software Developer, 2012-2013
 
@@ -26,7 +28,8 @@ Sakarya University - Bachelor of Engineering Degree, Computer Engineering — GP
 - Intro to Self Driving Cars - https://confirm.udacity.com/YPQMKKHG
 
 ### Skills
-- C# , Java , Python , TypeScript, Angular10 , Asp .Net MVC • Web Services - REST, SOAP
+- C# , Java , Python , TypeScript, Angular10 , Asp .Net MVC 
+- Web Services - REST, SOAP
 - Windows Services , TCP Socket Programming
 - SQL, PL/SQL, Oracle
         
@@ -43,7 +46,8 @@ Sakarya University - Bachelor of Engineering Degree, Computer Engineering — GP
 ### Courses
 - Data Analyst Nano degree - Udacity, Google, Kaggle
 - Introduction to Autonomous Vehicle -Udacity, Google
-- Advanced programming PL/SQL Oracle11g - Oracle, Bilginc Academy • Distributed Systems- Colombia University, edx.org
+- Advanced programming PL/SQL Oracle11g - Oracle, Bilginc Academy 
+- Distributed Systems- Colombia University, edx.org
 - Agile Project Management - BMC
 - Cassandra Architecture, Global Maximum
 
