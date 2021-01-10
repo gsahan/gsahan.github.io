@@ -21,7 +21,8 @@ Responsible for is designing and development of :
 Sakarya University - Bachelor of Engineering Degree, Computer Engineering — GPA 3.25 / 4, 2013
 
 ### Certificates
-- Oracle PL/SQL Developer Certified Associate - https://bit.ly/2HYEYj5 • Data Analyst - https://confirm.udacity.com/CX4SJXCV
+- Oracle PL/SQL Developer Certified Associate - https://bit.ly/2HYEYj5 
+- Data Analyst - https://confirm.udacity.com/CX4SJXCV
 - Intro to Self Driving Cars - https://confirm.udacity.com/YPQMKKHG
 
 ### Skills
